@@ -324,6 +324,6 @@ Successfully built and operated a functional SOC environment capable of:
 
 **Nitin Sukthe**
 
-Aspiring Cloud Security Engineer | SOC Analyst | Blue Team Enthusiast
+Future Cloud Security Engineer | SOC Analyst | Blue Team Enthusiast
 
 Focused on Security Operations, Threat Detection, Incident Response, Cloud Security, and SIEM Engineering.
