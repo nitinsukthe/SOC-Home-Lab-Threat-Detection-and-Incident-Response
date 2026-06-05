@@ -90,15 +90,15 @@ Validated communication between all systems within the SOC environment.
 
 ### Kali Linux Network Configuration
 
-![Kali Configuration](screenshots/01-Kali-IP-Configuration.png)
+![Kali Configuration](screenshots/01-Kali-IP.png)
 
 ### Ubuntu Server Network Configuration
 
-![Ubuntu Configuration](screenshots/02-Wazuh-Server-IP-Configuration.png)
+![Ubuntu Configuration](screenshots/02-Wazuh-IP.png)
 
 ### Windows 10 Network Configuration
 
-![Windows Configuration](screenshots/03-Windows10-IP-Configuration.png)
+![Windows Configuration](screenshots/03-Windows-IP.png)
 
 ### Kali to Windows Connectivity Test
 
@@ -106,7 +106,7 @@ Validated communication between all systems within the SOC environment.
 
 ### Kali to Wazuh Connectivity Test
 
-![Ping Wazuh](screenshots/05-Kali-to-Wazuh-Ping.png)
+![Ping Wazuh](screenshots/05-Kali-to-Ubuntu-Ping.png)
 
 ---
 
@@ -120,7 +120,7 @@ Installed and configured:
 
 ### Wazuh Dashboard Access
 
-![Dashboard](screenshots/06-Wazuh-Dashboard-Access.png)
+![Dashboard](screenshots/06-Wazuh-Dashboard.png)
 
 ---
 
@@ -130,7 +130,7 @@ Installed the Wazuh Agent on Windows 10 and successfully connected it to the Waz
 
 ### Connected Endpoint
 
-![Agent Connected](screenshots/07-Windows-Agent-Connected.png)
+![Agent Connected](screenshots/07-Agent-Active.png)
 
 ---
 
@@ -149,7 +149,7 @@ Monitored events included:
 
 ### Sysmon Service Running
 
-![Sysmon](screenshots/08-Sysmon-Service-Installed.png)
+![Sysmon](screenshots/08-Sysmon-Running.png)
 
 ### Sysmon Log Collection Configuration
 
@@ -175,7 +175,7 @@ Generated security-relevant activities to trigger Wazuh detections.
 
 Detected PowerShell execution and associated MITRE ATT&CK mapping.
 
-![PowerShell Detection](screenshots/11-PowerShell-Execution-Detection.png)
+![PowerShell Detection](screenshots/11-Process-Creation-Detection.png)
 
 ### Failed Login Monitoring
 
