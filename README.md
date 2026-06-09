@@ -294,6 +294,23 @@ Example detection:
 * SOC Workflows
 
 ---
+## 📚 Project Documentation
+
+This repository contains detailed technical documentation covering the complete SOC investigation lifecycle, from lab deployment and detection engineering to threat hunting and incident response.
+
+### Documentation Overview
+
+| Document                          | Description                                                                                                                                                           |
+| --------------------------------- | --------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| **Project-Overview.md**           | High-level overview of the SOC Home Lab, objectives, technologies used, and project scope.                                                                            |
+| **Lab-Architecture.md**           | Detailed architecture of the environment including Kali Linux, Windows 10, Ubuntu Server, Wazuh SIEM, Sysmon, and network design.                                     |
+| **Detection-Use-Cases.md**        | Security detection scenarios developed and tested during the project, including PowerShell execution, account creation, failed logins, and reconnaissance activities. |
+| **Incident-Response-Report.md**   | Formal incident response investigation documenting alert analysis, findings, root cause assessment, MITRE ATT&CK mapping, and remediation recommendations.            |
+| **Lessons-Learned.md**            | Key technical and operational lessons learned while building and operating the SOC Home Lab.                                                                          |
+| **wazuh-sysmon-configuration.md** | Configuration details for Wazuh Agent and Sysmon used to collect and analyze Windows security telemetry.                                                              |
+| **SOC-Home-Lab-Final-Report.pdf** | Executive-level SOC analyst report summarizing architecture, detections, investigations, findings, MITRE ATT&CK mapping, and recommendations.                         |
+
+---
 
 # Results
 
